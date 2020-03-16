@@ -63,3 +63,6 @@ typings/
 
 # Manuel
 doc.md
+
+# tasks
+tasks.json
